@@ -9,6 +9,9 @@ konami-manager.js
 <script src="konami-manager.js"></script>
 <script>
 
+   
+   var konamiManager = new KonamiManager(window);
+
    /**
      * Attach Konami { ← ← a }
      */
